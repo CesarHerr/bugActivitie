@@ -95,7 +95,7 @@ objectWorks.forEach((parameter, index) => {
   cardMain.appendChild(createCard);
 });
 const cardRemove = document.querySelector('.works-body');
-cardMain.removeChild(cardRemove);
+cardMain.removeChild(cardRemoved);
 
 // this is for popup desktop
 
